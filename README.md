@@ -2,3 +2,4 @@
 
 ### Link for Each Project Demo Video:
 [Dice Roller](https://youtu.be/V9HnoTguZuE)
+[Affirmation](https://youtu.be/gh7csHk2GTY)
